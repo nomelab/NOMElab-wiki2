@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: NOME Lab Wiki
 type: book # Do not modify.
 toc: false
 ---
