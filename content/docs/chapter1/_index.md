@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: When you get here
+summary: A simple list of tasks and activities to get started in NOME lab
 weight: 1
 icon: book
 icon_pack: fas

@@ -4,6 +4,6 @@ type: book # Do not modify.
 toc: false
 ---
 
-Welcome to the _Project Docs_ template!
+Welcome to [NOME lab](www.nomelab.com)!
 
-{{< cta cta_text="👉 Get Started with Chapter 1" cta_link="chapter1" >}}
+{{< cta cta_text="👉 Get Started with NOME lab" cta_link="chapter1" >}}
